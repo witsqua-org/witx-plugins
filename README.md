@@ -1,6 +1,6 @@
 # WitX Plugins
 
-[WitX](https://github.com/FoLAWy-py/WitX) 的官方 marketplace。Plugin 是一组 Skill：某类任务的已验证做法，Agent 在合适时加载。Plugin 只有文字，不运行代码，也不授予任何权限：付款仍然要你批准，Skill 不能改变这一点。
+[WitX](https://github.com/witsqua-org/WitX) 的官方 marketplace。Plugin 是一组 Skill：某类任务的已验证做法，Agent 在合适时加载。Plugin 只有文字，不运行代码，也不授予任何权限：付款仍然要你批准，Skill 不能改变这一点。
 
 ## 安装
 
