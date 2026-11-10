@@ -64,3 +64,7 @@ uv run witx plugin check /path/to/witx-plugins
 ## CI
 
 每个 PR 都会用 WitX 最新的 main 运行 `witx plugin check`（WitX 是私有仓库，CI 用只读的 deploy key `WITX_DEPLOY_KEY` 拉取它；从 fork 提的 PR 拿不到这个 secret，由维护者合并前在本地检查）。WitX 自己的 CI 也会对这个仓库的 main 运行同样的检查：WitX 改名或删除一个工具时，在合并之前就会知道哪些 Skill 会坏。
+
+## 许可证
+
+本仓库的原创内容采用 [Apache License 2.0](LICENSE)。软件和 Skill 按“现状”提供，保证与责任条款以 LICENSE 为准。除另有明确约定外，拟合入本项目的贡献同样按 Apache-2.0 提供；提交者应有权提供相应内容。
